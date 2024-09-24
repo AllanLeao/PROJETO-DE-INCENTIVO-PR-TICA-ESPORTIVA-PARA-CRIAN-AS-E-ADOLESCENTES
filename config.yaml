@@ -1,0 +1,9 @@
+credentials:
+  usernames:
+    admin: # usuario
+      name: Allan
+      password: $2b$12$FBaAobd5hiudpQC1jBM5YeWNDCang.0PLqdTbfUWGLAnZnMVvDn4. # 1234
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
